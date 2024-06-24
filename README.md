@@ -24,7 +24,7 @@ You need to have Node.js and MongoDB installed on your local system to run this 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd TODO-BACKEND
+    cd BookStore-Backend
     ```
 
 3. **Install dependencies:**
